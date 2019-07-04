@@ -1,8 +1,0 @@
----
-layout: post
-title: Sample Post
----
-# This is a Test Post
-## Does it work?
-	if it_works:
-		print("Hello World")
