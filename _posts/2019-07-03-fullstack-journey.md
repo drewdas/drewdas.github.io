@@ -10,10 +10,13 @@ Working as full-stack developer for the past 3 years, I have learned that just k
 **Languages** 
 Python
 Javascript
+Go
 
 **Frameworks** 
 Django
-Vue JS
+React
+Gin/Beego
+
 
 ## Goals
 
@@ -28,10 +31,3 @@ Javascript
  - Learn testing frameworks.
  - Learn about some important new ES6 features (optional).
 
-Data Structures and Algorithms
-
-VueJS
-
-SQL
-
-Django
