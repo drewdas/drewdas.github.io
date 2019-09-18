@@ -11,11 +11,13 @@ Working as full-stack developer for the past 3 years, I have learned that just k
 Python
 Javascript
 
+Want to Learn: Go
+
 **Frameworks** 
 Django
-Vue JS
+React
 
-## Goals
+## Outline
 
 Python
 - Advanced knowledge of the language
@@ -30,8 +32,8 @@ Javascript
 
 Data Structures and Algorithms
 
-VueJS
+Django
 
 SQL
 
-Django
+React
