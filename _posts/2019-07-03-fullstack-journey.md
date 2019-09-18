@@ -5,17 +5,22 @@ title: My Developer Goals
 
 Working as full-stack developer for the past 3 years, I have learned that just knowing how to use the languages/frameworks to deliver a project does not necessarily make me better and more efficient in how I do it. Writing a blog for me is a way to organize how I go about learning new languages/frameworks, improving my current skillset. Additionally, it will help my soft skills how to demonstrate my knowledge in words and convey my own opinions.
 
-## Current Skillset
+## Skillset
 
 **Languages** 
-Python
-Javascript
+- Python
+- Javascript
 
-Want to Learn: Go
+Learn:
+- Go
 
 **Frameworks** 
-Django
-React
+- Django
+- React
+
+Learn: 
+- Gin/Beego
+
 
 ## Outline
 
